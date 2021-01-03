@@ -37,7 +37,7 @@ Cross-B.Sass tem como objetivo facilitar todo esse processo utilizando [Sass](ht
 ```
     //Arquivo style.scss
 
-    @import '_lib'
+    @import 'cross-b'
 
    .box {
         @include transform(translate(100px));
